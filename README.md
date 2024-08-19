@@ -37,10 +37,10 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 ![Vitor Izidoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrySamuel&show_icons=true&theme=radical)
 
 ### Linguagens Mais Usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrySamue&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrySamuel&layout=compact&theme=radical)
 
 ### Troféus do GitHub:
-![trophy](https://github-profile-trophy.vercel.app/?username=CrySamue)
+![trophy](https://github-profile-trophy.vercel.app/?username=CrySamuel)
 
 ### Projetos Destacados:
 - [Projeto 1](https://github.com/fapinter/Terestore)
