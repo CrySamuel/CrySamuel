@@ -6,19 +6,18 @@
 
 ## 🚀 Sobre Mim
 
-👋 Olá! Meu nome é **Crystofer Samuel**, e sou um entusiasta da tecnologia em constante evolução. Atualmente, estou focado em aprimorar minhas habilidades em **Java, Python, JavaScript** e outras linguagens, buscando oportunidades como **estagiário ou desenvolvedor júnior**.
+👋 Olá! Meu nome é Crystofer Samuel, sou um Desenvolvedor Java Júnior com foco em Spring Boot e tecnologias backend. Tenho paixão por resolver problemas e criar soluções eficientes e escaláveis.**.
 
-🎓 Tenho experiência acadêmica em **desenvolvimento full stack, banco de dados e infraestrutura**, e atualmente trabalho como **suporte técnico no Colégio do Paraná**.
+🎓 Atualmente trabalho como suporte técnico no Colégio do Paraná e busco oportunidades para atuar profissionalmente no desenvolvimento backend**.
 
-💡 Possuo conhecimentos em:
-- **Linguagens de Programação**: Java, Python, JavaScript, C, PHP.
-- **Desenvolvimento Web**: HTML, CSS, Spring.
-- **Banco de Dados**: MySQL.
-- **Sistemas Operacionais**: Linux, Windows.
-- **Ferramentas de Análise de Dados**: Power BI, Excel.
-- **Outras Habilidades**: Redes, Hardware, Git, GitHub.
+💡 Minhas principais habilidades incluem:
+ **Desenvolvimento Backend**: Java, Spring Boot, APIs REST.
+ **Banco de Dados**: MYSQL.
+ **Ferramentas DevOps**: Git, GitHub, Docker (aprendendo).
+ **Ferramentas de Análise de Dados**: Power BI, Excel.
+ **Outras Habilidades**: Redes, Hardware, Git, GitHub, Linux, Windows, HTML, CSS, JavaScript.
 
-📚 Atualmente, estou estudando **Hadoop MapReduce, Spark e Spark SQL** para me aprofundar no mundo de **Big Data**.
+📚 Estou aprofundando meus estudos em Spring Boot, Microsserviços e Arquitetura de Software, além de explorar **Big Data** com **Hadoop** e **Spark**..
 
 ---
 
