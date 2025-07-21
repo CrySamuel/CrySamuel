@@ -55,12 +55,4 @@
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrySamuel&bg_color=0d1117&color=FF0000&line=FF0000&point=ffffff&area=true&hide_border=true"/>
-</div>
-
----
-
 *"A tecnologia move o mundo. Estou aqui para crescer e contribuir!"* 🚀
