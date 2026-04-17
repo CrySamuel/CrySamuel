@@ -15,16 +15,16 @@
 
 <br>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou Desenvolvedor Backend focado no ecossistema **Java (Spring Boot)**, mas com uma trajetória que me deu uma vantagem incomum: antes de focar 100% em código, construí uma base sólida lidando com incidentes de infraestrutura em ambientes de missão crítica (Data Centers e Telecom). Isso significa que eu não apenas desenvolvo APIs, mas entendo profundamente como elas se comportam em produção sob estresse, consumo de memória e latência de rede.
 
 Atualmente, estou no último ano de Ciência da Computação (PUCPR) e não fujo de problemas complexos. Para o meu TCC, estou desenvolvendo um sistema de predição de interações medicamentosas, treinando modelos de **Machine Learning (XGBoost, Random Forest, SVM)** em um dataset com mais de 800.000 registros.
 
 **Meu foco de atuação:**
-- ☕ **Backend Corporativo:** Construção de microsserviços e APIs RESTful resilientes com Java e Spring.
-- 🐍 **IA & Automação:** Criação de integrações com LLMs (RAG, Llama-3) utilizando Python e SQLAlchemy.
-- ⚙️ **Performance:** Escrever código limpo e otimizado que resolve problemas reais do negócio.
+-  **Backend Corporativo:** Construção de microsserviços e APIs RESTful resilientes com Java e Spring.
+-  **IA & Automação:** Criação de integrações com LLMs (RAG, Llama-3) utilizando Python e SQLAlchemy.
+-  **Performance:** Escrever código limpo e otimizado que resolve problemas reais do negócio.
 
 Sempre em busca de desafios que exijam arquitetura bem pensada e código escalável.
 
