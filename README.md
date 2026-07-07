@@ -77,10 +77,6 @@ Sempre em busca de desafios que exijam arquitetura bem pensada e código escalá
 
 ## 📊 Estatísticas e Atividade
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrySamuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=2F80ED&title_color=2F80ED&text_color=C9D1D9" height="165px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrySamuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9" height="165px" alt="Top Languages" />
-</div>
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrySamuel&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakNum=C9D1D9" alt="GitHub Streak" />
